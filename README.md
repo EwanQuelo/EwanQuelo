@@ -11,7 +11,6 @@
 <!--Texte en cube-->
 <p align="center"> 
   <samp>
-    <br>
     「 future <b>?</b> 」
     <br>
   </samp>
