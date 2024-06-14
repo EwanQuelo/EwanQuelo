@@ -3,9 +3,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/EwanQuelo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+
 
 <p align="center"> 
   <samp>
@@ -19,7 +17,10 @@
 
 <!-- About Section -->
  # <p align="center"> About me </p>
- 
+ <p align="center">
+  <a href="https://github.com/EwanQuelo"><img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&color=24D512&lines=Hello%20World;Love%20launch%20New%20Project;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;ChatGPT%20will%20kill%20me&center=true&width=380&height=45"></a>
+</p>
+
 <p>
  <img align="right" width="350" src="/src/tetesticker.png" alt="Head Sticker" />
 
@@ -36,7 +37,6 @@
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&theme=tokyonight&hide=css,scss)
-<br/>
 
 ## <p align="center"> Use To Code </p>
 
