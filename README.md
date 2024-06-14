@@ -22,7 +22,7 @@
   <!--Spec de moi a gauche-->
   
  ❤️ &emsp; Love to nothing <br/><br/>
- 📧 &emsp; Reach me anytime: pasencore@gmail.com<br/><br/>
+ 📧 &emsp; Contact me: pasencore@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/EwanQuelo/EwanQuelo/issues)
 
 </p>
