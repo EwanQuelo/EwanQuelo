@@ -1,8 +1,12 @@
 ## Hi there 👋
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&hide=javascript,css,scss,html)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&theme=tokyonight&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EwanQuelo/EwanQuelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
