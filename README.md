@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-https://www.google.com/search?client=safari&rls=en&q=!%5BTop+Langs%5D(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DEwanQuelo%26langs_count%3D8)&ie=UTF-8&oe=UTF-8
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
 <!--
 **EwanQuelo/EwanQuelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
