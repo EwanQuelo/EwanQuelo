@@ -18,7 +18,7 @@
 
 <p>
   <!--Image du stickers a droite-->
- <img align="right" width="350" src="/src/animated-face.gif" alt="Head Sticker" />
+ <img align="right" width="350" src="/src/tetesticker.png" alt="Head Sticker" />
   <!--Spec de moi a gauche-->
   
  ❤️ &emsp; Love to nothing <br/><br/>
