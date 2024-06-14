@@ -71,3 +71,12 @@
 ![Portable](https://img.shields.io/badge/Apple-MacBook_Pro_M1_pro-999999?style=for-the-badge&logo=apple&logoColor=white)
 <br/>
 
+## <p align="center">Favorites Projects</p>
+[![toolbox3d](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=toolbox3d&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/alsiam/itasks)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=portfolio1&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/alsiam/itasks)
+
+<p align="left">
+  <a href="https://github.com/EwanQuelo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+
