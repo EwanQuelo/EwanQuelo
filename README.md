@@ -36,6 +36,18 @@
 
 ## <p align="center"> Use To Code </p>
 <!--Liste des languages utilisés-->
+<p align="center">
+ <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Xcode" />
+ <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="Xcode" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Xcode" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Xcode" />
+ <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Xcode" />
+ <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Xcode" />
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Xcode" />
+ <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Xcode" />
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Xcode" />
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Xcode" />
+<!--
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,6 +58,9 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  -->
+</p>
+
 ## <p align="center"> IDE </p>
 <!--Liste des IDE-->
 <p align="center">
@@ -71,9 +86,9 @@
 ![Portable](https://img.shields.io/badge/Apple-MacBook_Pro_M1_pro-999999?style=for-the-badge&logo=apple&logoColor=white)
 <br/>
 
-## <p align="center">Favorites Projects</p>
+## <p align="center">I work on</p>
 [![toolbox3d](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=toolbox3d&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/toolbox3d)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=portfolio1&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/portfolio1)
+[![goodornot](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=goodornot&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/goodornot)
 
 <p align="left">
   <a href="https://github.com/EwanQuelo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
