@@ -51,15 +51,27 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 -->
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" />
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VScode"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
 </p>
+
+## <p align="center"> Platforms </p>
+<!--
+![XCODE](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
+  <img src="https://img.shields.io/badge/vision%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Vision OS" />
+</p>
+
 <br/>
-## Workspace Specs
+
+## <p align="center">Worspace Specs</p>
 ![Processeur](https://img.shields.io/badge/AMD-Ryzen_7_2700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Carte Graphique](https://img.shields.io/badge/AMD-Radeon_RX_590-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Portable](https://img.shields.io/badge/Apple-MacBook_Pro_M1_pro-999999?style=for-the-badge&logo=apple&logoColor=white)
