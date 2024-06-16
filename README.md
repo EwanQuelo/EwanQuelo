@@ -5,15 +5,24 @@
 <!-- About Section -->
  # <p align="center"> About me </p>
  <!--Texte qui défile-->
- <p align="center">
+<!-- <p align="center">
   <a href="https://github.com/EwanQuelo"><img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&color=24D512&lines=Hello%20World;Love%20launch%20New%20Project;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;ChatGPT%20will%20kill%20us&center=true&width=380&height=45"></a>
 </p>
+-->
 <!--Texte en cube-->
-<p align="center"> 
+<!--
+ <p align="center"> 
   <samp>
     「 future <b>?</b> 」
     <br>
   </samp>
+</p>
+-->
+<!-- Social media links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ewan-quelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </p>
 
 <p>
