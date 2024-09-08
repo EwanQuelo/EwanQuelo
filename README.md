@@ -84,6 +84,7 @@
   <img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
   <img src="https://img.shields.io/badge/vision%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Vision OS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Ubuntu" />
 </p>
 
 <br/>
