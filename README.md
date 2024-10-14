@@ -87,8 +87,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Ubuntu" />
 </p>
 
-<br/>
+
 <!--
+<br/>
 ## <p align="center">Worspace Specs</p>
 ![Processeur](https://img.shields.io/badge/AMD-Ryzen_7_2700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Carte Graphique](https://img.shields.io/badge/AMD-Radeon_RX_590-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
