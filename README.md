@@ -30,8 +30,8 @@
  <img align="right" width="350" src="/src/tetesticker.png" alt="Head Sticker" />
   <!--Spec de moi a gauche-->
   
- ❤️ &emsp; Love to nothing <br/><br/>
- 📧 &emsp; Contact me: pasencore@gmail.com<br/><br/>
+ ❤️ &emsp; nothing <br/><br/>
+ 📧 &emsp; Contact me: contact@ewanquelo.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/EwanQuelo/EwanQuelo/issues)
 
 </p>
@@ -47,7 +47,7 @@
 <!--Liste des languages utilisés-->
 <p align="center">
  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Xcode" />
- <!-- <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="Xcode" /> -->
+ <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="Xcode" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Xcode" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Xcode" />
  <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Xcode" />
