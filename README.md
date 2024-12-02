@@ -97,7 +97,7 @@
 <br/>
 -->
 ## <p align="center">I actually work on</p>
-[![toolbox3d](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=toolbox3d&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/toolbox3d)
+[![toolbox3d](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=portfolio&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/portfolio)
 [![goodornot](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=goodornot&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/goodornot)
 
 <p align="center">
