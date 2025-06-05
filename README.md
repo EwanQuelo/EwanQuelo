@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/ewan-quelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://ewanquelo.com"><img src="https://img.shields.io/badge/ewanquelo.com-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=0026ff"></a>
  <!-- <a href="#"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a> -->
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> -->
 </p>
 
 <p>
