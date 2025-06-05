@@ -41,7 +41,7 @@
 <br/>
 
 <!--Tableau avec stat langs -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&theme=tokyonight) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&theme=tokyonight&size_weight=0.5&count_weight=0.5) 
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&size_weight=0.5&count_weight=0.5&theme=tokyonight)  -->
 
