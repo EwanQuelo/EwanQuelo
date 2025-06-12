@@ -1,4 +1,4 @@
-<img src="src/tetesticker.png" alt="Ewan's Sticker" width="100px" align="left" style="border-radius: 12px; border: 1px solid #30363D; margin: 5px 5px 15px 15px" />
+<img src="src/tetesticker.png" alt="Ewan's Sticker" width="130px" align="left" style="border-radius: 12px; border: 1px solid #30363D; margin: 5px 5px 15px 15px" />
 
 <div align="right">
  
@@ -20,8 +20,8 @@
 <br>
 <br>
  <div style="color: #ADBAC7; line-height: 1.6; max-width: 700px; margin: 0 auto; text-align: left; ">
-    <p align="right">I'm currently a first-year Computer Science student at IUT de Vannes.</p>
-      <li align="right">Contact: <a href="mailto:contact@ewanquelo.com" style="color: #58A6FF; text-decoration: none;">contact@ewanquelo.com</a> or via <a href="https://github.com/EwanQuelo/EwanQuelo/issues" style="color: #58A6FF; text-decoration: none;">GitHub Issues</a>.</li>
+    <p align="left">I'm currently a first-year Computer Science student at IUT de Vannes.</p>
+      <li align="left">Contact: <a href="mailto:contact@ewanquelo.com" style="color: #58A6FF; text-decoration: none;">contact@ewanquelo.com</a> or via <a href="https://github.com/EwanQuelo/EwanQuelo/issues" style="color: #58A6FF; text-decoration: none;">GitHub Issues</a>.</li>
   </div>
 
 ---
@@ -74,10 +74,10 @@
   <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">Projects</h2>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
     <a href="https://github.com/EwanQuelo/portfolio" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: Portfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=miniprojet-java&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: Portfolio">
     </a>
     <a href="https://github.com/EwanQuelo/goodornot" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: GoodOrNot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=miniprojet-java&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: GoodOrNot">
     </a>
   </div>
   <p align="center" style="margin-top: 30px;">
