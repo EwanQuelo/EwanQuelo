@@ -1,121 +1,90 @@
-<!-- ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=EwanQuelo&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
--->
+<img src="src/tetesticker.png" alt="Ewan's Sticker" width="100px" align="left" style="border-radius: 12px; border: 1px solid #30363D; margin: 5px 5px 15px 15px" />
 
-<!-- About Section -->
- # <p align="center"> About me </p>
- <!--Texte qui défile-->
-<!-- <p align="center">
-  <a href="https://github.com/EwanQuelo"><img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&color=24D512&lines=Hello%20World;Love%20launch%20New%20Project;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;ChatGPT%20will%20kill%20us&center=true&width=380&height=45"></a>
-</p>
--->
-<!--Texte en cube-->
-<!--
- <p align="center"> 
-  <samp>
-    「 future <b>?</b> 」
-    <br>
-  </samp>
-</p>
--->
-<!-- Social media links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ewan-quelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://ewanquelo.com"><img src="https://img.shields.io/badge/ewanquelo.com-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=0026ff"></a>
- <!-- <a href="#"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a> -->
-  <!-- <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> -->
-</p>
+<div align="right">
+ 
+  <h1>Ewan</h1>
+ 
+  <p style="color: #C9D1D9;">Hello</p>
+  <a href="https://github.com/EwanQuelo">
+  </a>
+ 
+</div>
 
-<p>
-  <!--Image du stickers a droite-->
- <img align="right" width="350" src="/src/tetesticker.png" alt="Head Sticker" />
-  <!--Spec de moi a gauche-->
-  
- ❤️ &emsp; nothing <br/><br/>
- 📧 &emsp; Contact me: contact@ewanquelo.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/EwanQuelo/EwanQuelo/issues)
+<div align="center" style="margin-top: 25px; margin-bottom: 35px;">
+  <a href="https://www.linkedin.com/in/ewan-quelo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://ewanquelo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-ewanquelo.com-232323?style=flat-square&logo=icloud&logoColor=white&labelColor=58A6FF" alt="Portfolio"></a> 
+  <a href="mailto:contact@ewanquelo.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
-</p>
+<br>
+<br>
+<br>
+ <div style="color: #ADBAC7; line-height: 1.6; max-width: 700px; margin: 0 auto; text-align: left; ">
+    <p align="right">I'm currently a first-year Computer Science student at IUT de Vannes.</p>
+      <li align="right">Contact: <a href="mailto:contact@ewanquelo.com" style="color: #58A6FF; text-decoration: none;">contact@ewanquelo.com</a> or via <a href="https://github.com/EwanQuelo/EwanQuelo/issues" style="color: #58A6FF; text-decoration: none;">GitHub Issues</a>.</li>
+  </div>
 
-<br/>
-<br/>
-<br/>
+---
 
-<br/>
+<div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
+  <h2 align="center" style="color: #C9D1D9; margin-bottom: 10px;">My Tech Stack & Tools</h2>
 
-<br/>
+  <h3 align="center" style="color: #8B949E; font-weight: 500; margin-top: 20px; margin-bottom: 15px;">Languages & Frameworks</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=F29111" alt="MySQL">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </p>
 
-<br/>
+  <h3 align="center" style="color: #8B949E; font-weight: 500; margin-top: 25px; margin-bottom: 15px;">Development Tools</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Eclipse-43328A?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </p>
+</div>
 
-<br/>
+---
 
-<br/>
+<div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
+  <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">GitHub Stats</h2>
+  <div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EwanQuelo&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Ewan's GitHub Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=EwanQuelo&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+   
+   
+  </div>
+  <div align="center" style="margin-top: 20px;">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&border_radius=8&hide=html,css" alt="Ewan's Top Languages"/> -->
+  </div>
+</div>
 
+---
 
-<!--Tableau avec stat langs -->
- <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&theme=tokyonight&size_weight=0.5&count_weight=0.5) -->
+<div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
+  <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">Projects</h2>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+    <a href="https://github.com/EwanQuelo/portfolio" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: Portfolio">
+    </a>
+    <a href="https://github.com/EwanQuelo/goodornot" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: GoodOrNot">
+    </a>
+  </div>
+  <p align="center" style="margin-top: 30px;">
+    <a href="https://github.com/EwanQuelo?tab=repositories" target="_blank" rel="noopener noreferrer">
+      <img alt="View All My Repositories" src="https://img.shields.io/badge/View_All_My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=58A6FF">
+    </a>
+  </p>
+</div>
 
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&size_weight=0.5&count_weight=0.5&theme=tokyonight)  -->
-
-## <p align="center"> Use To Code </p>
-<!--Liste des languages utilisés-->
-<p align="center">
- <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Xcode" />
- <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="Xcode" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Xcode" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Xcode" />
- <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Xcode" />
- <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Xcode" />
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Xcode" />
- <!-- <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Xcode" /> -->
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Xcode" />
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Xcode" />
-<!--
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  -->
-</p>
-
-## <p align="center"> IDE </p>
-<!--Liste des IDE-->
-<p align="center">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VScode"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
-</p>
-
-## <p align="center"> Platforms </p>
-<!--Liste des platformes pour lequelle je dev-->
-<p align="center">
-  <img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
-  <img src="https://img.shields.io/badge/vision%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Vision OS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Ubuntu" />
-</p>
-
-
-<!--
-<br/>
-## <p align="center">Worspace Specs</p>
-![Processeur](https://img.shields.io/badge/AMD-Ryzen_7_2700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Carte Graphique](https://img.shields.io/badge/AMD-Radeon_RX_590-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Portable](https://img.shields.io/badge/Apple-MacBook_Pro_M1_pro-999999?style=for-the-badge&logo=apple&logoColor=white)
-<br/>
--->
-## <p align="center">I actually work on</p>
-[![toolbox3d](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=portfolio&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/portfolio)
-[![goodornot](https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=goodornot&border_color=688ceb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=688ceb)](https://github.com/EwanQuelo/goodornot)
-
-<p align="center">
-  <a href="https://github.com/EwanQuelo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-
+---
