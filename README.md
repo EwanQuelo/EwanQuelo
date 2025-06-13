@@ -73,10 +73,10 @@
 <div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
   <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">Projects</h2>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <a href="https://github.com/EwanQuelo/portfolio" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/EwanQuelo/miniprojet-java" target="_blank" rel="noopener noreferrer">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=miniprojet-java&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: Portfolio">
     </a>
-    <a href="https://github.com/EwanQuelo/goodornot" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/EwanQuelo/miniprojet-java" target="_blank" rel="noopener noreferrer">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=miniprojet-java&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: GoodOrNot">
     </a>
   </div>
