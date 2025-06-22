@@ -13,6 +13,7 @@
 <div align="center" style="margin-top: 25px; margin-bottom: 35px;">
   <a href="https://www.linkedin.com/in/ewan-quelo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://ewanquelo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-ewanquelo.com-232323?style=flat-square&logo=icloud&logoColor=white&labelColor=58A6FF" alt="Portfolio"></a> 
+  <a href="https://ewanquelo.github.io/universal-GitPortfolio/?user=EwanQuelo&color=e0e0e0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITPortfolio-232323?style=flat-square&logo=icloud&logoColor=white&labelColor=58A6FF" alt="Portfolio"></a> 
   <a href="mailto:contact@ewanquelo.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
