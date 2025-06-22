@@ -55,7 +55,7 @@
 </div>
 
 ---
-
+<!--
 <div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
   <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">GitHub Stats</h2>
   <div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 15px;">
@@ -65,11 +65,10 @@
    
   </div>
   <div align="center" style="margin-top: 20px;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&border_radius=8&hide=html,css" alt="Ewan's Top Languages"/> -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwanQuelo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&border_radius=8&hide=html,css" alt="Ewan's Top Languages"/>
   </div>
 </div>
-
----
+ -->
 
 <div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
   <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">Projects</h2>
