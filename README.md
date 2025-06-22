@@ -13,7 +13,7 @@
 <div align="center" style="margin-top: 25px; margin-bottom: 35px;">
   <a href="https://www.linkedin.com/in/ewan-quelo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://ewanquelo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-ewanquelo.com-232323?style=flat-square&logo=icloud&logoColor=white&labelColor=58A6FF" alt="Portfolio"></a> 
-  <a href="https://ewanquelo.github.io/GitFolio/?user=EwanQuelo&color=e0e0e0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITPortfolio-232323?style=flat-square&logo=icloud&logoColor=white&labelColor=58A6FF" alt="Portfolio"></a> 
+  <a href="https://ewanquelo.github.io/gitfolio/?user=EwanQuelo&color=e0e0e0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITPortfolio-232323?style=flat-square&logo=icloud&logoColor=white&labelColor=58A6FF" alt="Portfolio"></a> 
   <a href="mailto:contact@ewanquelo.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
@@ -74,8 +74,8 @@
 <div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
   <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">Projects</h2>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <a href="https://github.com/EwanQuelo/universal-GitPortfolio" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=universal-GitPortfolio&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: Portfolio">
+    <a href="https://github.com/EwanQuelo/gitfolio" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=gitfolio&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: Portfolio">
     </a>
     <a href="https://github.com/EwanQuelo/SAE-Secouriste" target="_blank" rel="noopener noreferrer">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EwanQuelo&repo=SAE-Secouriste&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Project: GoodOrNot">
