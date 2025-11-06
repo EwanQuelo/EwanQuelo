@@ -22,8 +22,8 @@
 <br>
 <br>
  <div style="color: #ADBAC7; line-height: 1.6; max-width: 700px; margin: 0 auto; text-align: left; ">
-    <p align="left">I'm currently a first-year Computer Science student at IUT de Vannes.</p>
-      <li align="left">Contact: <a href="mailto:contact@ewanquelo.com" style="color: #58A6FF; text-decoration: none;">contact@ewanquelo.com</a> or via <a href="https://github.com/EwanQuelo/EwanQuelo/issues" style="color: #58A6FF; text-decoration: none;">GitHub Issues</a>.</li>
+    <p align="left">I'm currently a second-year Computer Science student at IUT de Vannes.</p>
+      <li align="left">Contact: <a href="mailto:contact@ewanquelo.com" style="color: #58A6FF; text-decoration: none;">contact@ewanquelo.com</a></li>
   </div>
 
 ---
