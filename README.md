@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=F29111" alt="MySQL">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
   </p>
 
   <h3 align="center" style="color: #8B949E; font-weight: 500; margin-top: 25px; margin-bottom: 15px;">Development Tools</h3>
@@ -70,7 +71,7 @@
   </div>
 </div>
  -->
-
+<!--
 <div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
   <h2 align="center" style="color: #C9D1D9; margin-bottom: 25px;">Projects</h2>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
@@ -87,5 +88,5 @@
     </a>
   </p>
 </div>
-
+ -->
 ---
