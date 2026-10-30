@@ -22,7 +22,7 @@
 <br>
 <br>
  <div style="color: #ADBAC7; line-height: 1.6; max-width: 700px; margin: 0 auto; text-align: left; ">
-    <p align="left">I'm currently a second-year Computer Science student at IUT de Vannes.</p>
+    <p align="left">Student in the Software Engineering Bachelor\'s program at ÉTS Montréal.</p>
       <li align="left">Contact: <a href="mailto:contact@ewanquelo.com" style="color: #58A6FF; text-decoration: none;">contact@ewanquelo.com</a></li>
   </div>
 
