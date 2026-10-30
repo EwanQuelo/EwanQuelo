@@ -27,7 +27,7 @@
   </div>
 
 ---
-
+<!--
 <div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
   <h2 align="center" style="color: #C9D1D9; margin-bottom: 10px;">My Tech Stack & Tools</h2>
 
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </p>
 </div>
-
+ -->
 ---
 <!--
 <div style="margin: 35px auto; max-width: 900px; padding: 0 15px;">
